@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Poketicom</title>
+</head>
+<body>
+  <h1>Welcome to My Website</h1>
+  <p>This is my first site!</p>
+</body>
+</html>
+<style>
+  body {
+    background-color: #f0f0f0;
+    font-family: sans-serif;
+  }
+  h1 {
+    color: blue;
+  }
+</style>
